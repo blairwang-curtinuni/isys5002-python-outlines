@@ -1,8 +1,4 @@
-# ISYS5002 - Week 9
-
-Back in [Week 6](week-06.md) we used a **list** to hold many temperature readings, and wrote **loops** to work through them one at a time—summing, counting, filtering by hand. That was the right way to learn what is really going on. But it does not scale. Real datasets have thousands of rows and dozens of columns, they arrive in files rather than typed in by hand, and nobody wants to write an accumulator loop every time they need an average.
-
-This week we meet **pandas**, the standard Python library for working with tabular data. Everything you did by hand in Week 6—reading data in, selecting the rows you care about, summarising, counting—pandas does in a single line. We'll also draw our first charts.
+# ISYS5002 - Week 9 (pandas)
 
 ## Key Concepts
 
