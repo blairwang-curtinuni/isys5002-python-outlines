@@ -220,8 +220,8 @@ plt.show()
 ### Challenge: Draw charts of the weather
 
 - Draw a bar chart of average **humidity** per city.
-- Draw a line chart of **Darwin's** temperature over the five days, and compare its shape with Perth's. What is different about the two cities?
-- **Extension:** investigate how to plot more than one city's temperature line on the **same** axes, so the comparison is direct. (Hint: look up `df.pivot()` or search for "pandas plot multiple lines"—part of this course is learning to find answers the way a working programmer does, just as you discovered pyinputplus in Week 4.)
+- Draw a line chart of **Darwin's** temperature over the five days, and compare with Perth's.
+- **Extension:** investigate how to plot more than one city's temperature line on the **same** axes, so the comparison is direct. (Hint: look up `df.pivot()` or search for "pandas plot multiple lines")
 
 ## 5. (Optional) Selectively retrieving / aggregating and summarising using SQL, via pandasql
 
